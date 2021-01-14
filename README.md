@@ -1,4 +1,4 @@
-# glitch-test-app
+# Skooleo Oneburner Challlenge
 
 ## Project setup
 ```
